@@ -1,4 +1,4 @@
 # BG-AdventJS.dev
-https://adventjs.dev/
+2022: https://adventjs.dev/
 
 AdventJS.dev exercises
